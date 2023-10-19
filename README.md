@@ -150,7 +150,7 @@
             <td></td>
             <td>Periode</td>
             <td>:</td>
-            <td>19 Februari 2019 – Sekarang</td>
+            <td>19 Februari 2019 – 29 April 2023</td>
         </tr>
         <tr>
             <td></td>
